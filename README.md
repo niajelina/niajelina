@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rizal Afnani</h1>
+<h1 align="center">Hi 👋, I'm Niajellina</h1>
 <h3 align="center">A passionate Backend Engineering from Indonesia.</h3>
 
 
