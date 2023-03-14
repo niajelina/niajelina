@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niajellina</h1>
 <h3 align="center">A passionate Backend Engineering from Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niajelina&label=Profile%20views&color=ff05bc&style=flat" alt="niajelina" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niajelina&label=Profile%20views&color=ff05bc&style=flat-square" alt="niajelina" /> </p>
 
 - 🔭I’m currently student at **universitas quality**
 
