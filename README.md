@@ -7,7 +7,7 @@
 🌱 I’m currently learning Golang<br><br>
 👯 My Mentor Is Mohammad Rafly<br><br>
 🤝 I’m currently learning at Ruang Guru<br><br>
-📫 How to reach me muhammadrizalafnani@gmail.com<br>
+📫 How to reach me mailto:niajellina03@gmail.com<br>
 
 
 # 💻 Tech Stack:
